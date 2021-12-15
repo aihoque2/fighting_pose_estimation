@@ -3,7 +3,6 @@
 #include <opencv2/highgui.hpp>
 #include <opencv2/objdetect.hpp>
 #include <opencv2/core/cuda.hpp>
-#include <openpose>
 #include <iostream>
 
 using namespace cv;
